@@ -222,7 +222,7 @@ int main()
 	{
 		cout << "You have " << player.getHealth() << " health and are carrying "
 			<< player.getGold() << " gold." << endl;
-		cout << "You is win" << endl;
+		cout << "You is win" << endl << endl;
 	}
 
 	return 0;
